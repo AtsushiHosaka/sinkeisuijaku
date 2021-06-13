@@ -15,6 +15,7 @@
 		0D88CFB82675C25B00B79FB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D88CFB62675C25B00B79FB0 /* LaunchScreen.storyboard */; };
 		0D88CFC32675C25B00B79FB0 /* sinkeisuijakuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D88CFC22675C25B00B79FB0 /* sinkeisuijakuTests.swift */; };
 		0D88CFCE2675C25C00B79FB0 /* sinkeisuijakuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D88CFCD2675C25C00B79FB0 /* sinkeisuijakuUITests.swift */; };
+		0D88CFDF2675CC5D00B79FB0 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D88CFDE2675CC5D00B79FB0 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D88CFC92675C25B00B79FB0 /* sinkeisuijakuUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sinkeisuijakuUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D88CFCD2675C25C00B79FB0 /* sinkeisuijakuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sinkeisuijakuUITests.swift; sourceTree = "<group>"; };
 		0D88CFCF2675C25C00B79FB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D88CFDE2675CC5D00B79FB0 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				0D88CFAB2675C25600B79FB0 /* AppDelegate.swift */,
 				0D88CFAD2675C25600B79FB0 /* SceneDelegate.swift */,
 				0D88CFAF2675C25600B79FB0 /* ViewController.swift */,
+				0D88CFDE2675CC5D00B79FB0 /* CollectionViewCell.swift */,
 				0D88CFB12675C25700B79FB0 /* Main.storyboard */,
 				0D88CFB42675C25B00B79FB0 /* Assets.xcassets */,
 				0D88CFB62675C25B00B79FB0 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				0D88CFB02675C25600B79FB0 /* ViewController.swift in Sources */,
 				0D88CFAC2675C25600B79FB0 /* AppDelegate.swift in Sources */,
+				0D88CFDF2675CC5D00B79FB0 /* CollectionViewCell.swift in Sources */,
 				0D88CFAE2675C25600B79FB0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
